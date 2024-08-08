@@ -8,7 +8,6 @@ A simple Rock-Paper-Scissors game implemented using JavaScript, HTML, and CSS.
 + Installation
 + Setup
 + Usage
-+ Demo
 + Contributing
 + Contact
 ## Introduction
@@ -47,8 +46,6 @@ No additional setup or dependencies are required.
 4.The result (win, lose, or draw) will be displayed on the screen.   
 5.The score will be updated based on the result.
 6.Use the reset button to reset the scores to zero.
-## Demo
-You can try out the game live at the following link:
 
 
 ## Contributing

@@ -43,7 +43,7 @@ No additional setup or dependencies are required.
 1.Open the game in your web browser.           
 2.Click on Rock, Paper, or Scissors to make your choice.                                  
 3.The computer will make a random choice.  
-4.The result (win, lose, or draw) will be displayed on the screen.   
+4.The result (win, lose, or tie) will be displayed on the screen.   
 5.The score will be updated based on the result.
 6.Use the reset button to reset the scores to zero.
 

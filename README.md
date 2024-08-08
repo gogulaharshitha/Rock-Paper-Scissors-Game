@@ -27,11 +27,11 @@ This is a basic implementation of the classic Rock-Paper-Scissors game. The game
 To get a local copy up and running, follow these steps:
 
 **1.Clone the repository:**
-git clone https://github.com/gogulaharshitha/rock-paper-scissors.git
+git clone https://github.com/gogulaharshitha/Rock-Paper-Scissors-Game.git
 
 **2.Navigate to the project directory:**
 
-cd rock-paper-scissors
+cd Rock-Paper-Scissors-Game
 ## Setup
 After cloning the repository, you can open the project in your preferred code editor.
 

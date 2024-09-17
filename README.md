@@ -46,7 +46,7 @@ No additional setup or dependencies are required.
 3.The computer will make a random choice.  
 4.The result (win, lose, or tie) will be displayed on the screen.   
 5.The score will be updated based on the result.                 
-6.Use the reset button to reset the scores to zero.
+6.Use the reset button to reset the scores to zero.                     
 7.Use the autoplay button to run automatically.
 
 

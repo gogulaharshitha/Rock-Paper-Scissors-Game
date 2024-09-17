@@ -19,6 +19,7 @@ This is a basic implementation of the classic Rock-Paper-Scissors game. The game
 + Real-time result display.
 + Score tracking for both the user and the computer.
 + Reset score functionality.
++ Autoplay functionality.
 ## Technologies
 + HTML
 + CSS
@@ -46,13 +47,14 @@ No additional setup or dependencies are required.
 4.The result (win, lose, or tie) will be displayed on the screen.   
 5.The score will be updated based on the result.                 
 6.Use the reset button to reset the scores to zero.
+7.Use the autoplay button to run automatically.
 
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
 1.Fork the repository.   
-2.Create a new branch:   
+2.Create a new branch:
 git checkout -b feature-branch    
 3.Make your changes and commit them:   
 git commit -m 'Add some feature'   

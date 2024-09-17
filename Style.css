@@ -83,7 +83,8 @@ body {
     transform: scale(1.1);
 }
 
-.reset-score-button {
+.reset-score-button,
+.auto-play-button {
     background: linear-gradient(45deg, #4b3d3d, #d3d3d3);
     border: none;
     border-radius: 12px;
@@ -92,7 +93,6 @@ body {
     margin-top: 10px;
     cursor: pointer;
 }
-
 
 .reset-score-button:hover {
     transform: scale(1.02);
